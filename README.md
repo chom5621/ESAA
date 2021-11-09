@@ -19,4 +19,4 @@
 * Occupation 분석
 ## 핸즈온 머신러닝
 * 분류 - Heart Disease Classification
-* 모델훈련 - 꽃잎 너비 기반 Iris-Versicolor종 감지 모델
+* 모델훈련 - Kaggle Medical Cost Personal Datasets EDA & Regression
