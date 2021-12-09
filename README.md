@@ -20,3 +20,6 @@
 ## 핸즈온 머신러닝
 * 분류 - Heart Disease Classification
 * 모델훈련 - Kaggle Medical Cost Personal Datasets EDA & Regression
+* SVM
+* 결정트리
+* 앙상블
